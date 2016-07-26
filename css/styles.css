@@ -1,0 +1,16 @@
+.nav-menu
+{
+	background-color: azure;
+	padding: 0;
+}
+
+.menu-title
+{
+	padding: 20px 10px 50px 10px;
+}
+
+.menu-item
+{
+	background-color: beige;
+	padding: 10px;
+}
